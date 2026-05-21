@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_146833_idpcopi_0.admin" name="x_146833_idpcopi_0.admin">8945f6ecc3c14710f6ebf8ddd4013197</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-21 08:44:01</sys_created_on>
+        <sys_id>8545f6ecc3c14710f6ebf8ddd401319d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8945f6ecc3c14710f6ebf8ddd4013197</sys_name>
+        <sys_package display_value="idpcopilot" source="x_146833_idpcopi_0">3445f6ecc3c14710f6ebf8ddd4013114</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="idpcopilot">3445f6ecc3c14710f6ebf8ddd4013114</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8545f6ecc3c14710f6ebf8ddd401319d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-21 08:44:01</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
